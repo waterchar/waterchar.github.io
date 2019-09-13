@@ -4,22 +4,94 @@ const ap = new APlayer({
     autoplay: false,
     audio: [
       {
-        name: "归去来兮",
-        artist: '花粥',
-        url: 'http://m8.music.126.net/20190911134302/e748d6dfbc11a307f01035322ee5e0ff/ymusic/510f/5659/510b/fe1f2bda3ca3bd68ad48fa2b82f1d7a1.mp3',
-		cover:'',
+        name: "soldier",
+        artist: 'Jade',
+        url: '/audio/soldier.mp3',
+		cover:'/audio/cover.jpg',
 		},
       {
         name: '芒种',
         artist: '音阙诗听',
-        url: 'http://m8.music.126.net/20190911134015/70674e61ff01152ec8107c7533170b78/ymusic/0152/055a/5308/681ef6f50f20971ac5bddb07161fc6b5.mp3',
-        cover: '',
+        url: '/audio/芒种.mp3',
+		cover:'/audio/cover.jpg',
       },
       {
         name: '风筝误',
         artist: '刘珂矣',
-        url: 'http://up.mcyt.net/?down/46644.mp3',
-        cover: '',
-      }
+        url: '/audio/风筝误.mp3',
+		cover:'/audio/cover.jpg',
+      },
+	  {
+        name: '白羊',
+        artist: '徐秉龙',
+        url: '/audio/白羊.mp3',
+		cover:'/audio/cover.jpg',
+      },
+	  {
+        name: '飞云之下',
+        artist: '韩红',
+        url: '/audio/飞云之下.mp3',
+		cover:'/audio/cover.jpg',
+      },
+	  {
+        name: '平凡之路',
+        artist: '朴树',
+        url: '/audio/平凡之路.mp3',
+		cover:'/audio/cover.jpg',
+      },
+	  {
+        name: '幻听',
+        artist: '许嵩',
+        url: '/audio/幻听.mp3',
+		cover:'/audio/cover.jpg',
+      },
+	  {
+        name: '可不可以',
+        artist: '张紫豪',
+        url: '/audio/可不可以.mp3',
+		cover:'/audio/cover.jpg',
+      },
+	  {
+        name: '清明上河图',
+        artist: '九儿',
+        url: '/audio/清明上河图.mp3',
+		cover:'/audio/cover.jpg',
+      },
+	  {
+        name: '山外小楼听雨',
+        artist: '任然',
+        url: '/audio/山外小楼听雨.mp3',
+		cover:'/audio/cover.jpg',
+      },
+	    {
+        name: '坠落星空',
+        artist: 'Aurora',
+        url: '/audio/坠落星空.mp3',
+		cover:'/audio/cover.jpg',
+      },
+	   {
+        name: '归去来兮',
+        artist: '花粥',
+        url: '/audio/归去来兮.mp3',
+		cover:'/audio/cover.jpg',
+      },
+	  {
+        name: '我的一个道姑朋友',
+        artist: '双笙',
+        url: '/audio/我的一个道姑朋友.mp3',
+		cover:'/audio/cover.jpg',
+      },
+	  {
+        name: '风居住的街道',
+        artist: '矶村由纪子',
+        url: '/audio/风居住的街道.mp3',
+		cover:'/audio/cover.jpg',
+      },
+	  {
+        name: 'AllFallDown',
+        artist: 'Alan',
+        url: '/audio/AllFallDown.mp3',
+		cover:'/audio/cover.jpg',
+      },
     ]
 });
